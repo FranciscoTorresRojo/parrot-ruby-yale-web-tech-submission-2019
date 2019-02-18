@@ -1,3 +1,2 @@
-def #parrot
-  Squawk
-end 
+def parrot("Squawk")
+  end 
